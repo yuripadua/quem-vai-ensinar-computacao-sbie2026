@@ -1,0 +1,5 @@
+﻿ano,recorte_id,recorte,definicao_operacional,linhas,codigos_curso_distintos,qt_curso,concluintes,criterios_linhas
+2024,docencia_computacao,Docência em Computação/Informática,"Regras nominais, de grau e CINE documentadas no script de perfil",1795,96,96,925,"{""cine_computacao_formacao_professor"": 1791, ""cine_computacao_professor_e_nome_informatica_educacional"": 1, ""interdisciplinar_matematica_computacao"": 3}"
+2024,pedagogia_amplo_artigo,Pedagogia - recorte amplo usado no artigo,União: NO_CURSO contém pedagog* ou NO_CINE_ROTULO indica formação pedagógica de professor para a educação básica,29416,1907,1907,105726,"{""cine_formacao_pedagogica_educacao_basica"": 211, ""nome_pedagogia"": 29205}"
+2024,pedagogia_nome_estrito,Pedagogia - nome do curso contém pedagog*,NO_CURSO contém pedagog*; apenas graduação,29205,1892,1892,105502,"{""nome_pedagogia"": 29205}"
+2024,pedagogia_e_licenciaturas,Pedagogia e demais licenciaturas,Pedagogia por nome ou grau acadêmico de licenciatura; apenas graduação,142837,7830,7830,206967,"{""grau_academico=2"": 113632, ""nome_pedagogia"": 29205}"

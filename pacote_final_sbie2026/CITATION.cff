@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se utilizar estes dados ou scripts, cite o artigo e o artefato."
+title: "Quem Vai Ensinar Computação? Dados e scripts suplementares"
+type: dataset
+authors:
+  - family-names: Padua
+    given-names: Yuri Souza
+  - family-names: Azevedo
+    given-names: Rodolfo
+year: 2026
+version: 1.0.1
+repository-code: "https://github.com/yuripadua/quem-vai-ensinar-computacao-sbie2026"
+license: MIT

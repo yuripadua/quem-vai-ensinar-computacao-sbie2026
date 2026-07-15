@@ -1,0 +1,163 @@
+﻿uf,cenario,20,25,26.7,29.2
+AC,Mínimo,1336,1303,1301,1298
+AC,Intermediário bruto,1436,1377,1362,1354
+AC,Residual: docente Info./Comp.,1429,1370,1355,1347
+AC,Residual: algum sinal docente,1412,1353,1338,1330
+AC,Progressivo,1511,1430,1411,1396
+AC,Intensivo,1630,1519,1503,1472
+AL,Mínimo,2202,2110,2091,2073
+AL,Intermediário bruto,2497,2332,2293,2238
+AL,Residual: docente Info./Comp.,2413,2248,2209,2154
+AL,Residual: algum sinal docente,2258,2093,2054,1999
+AL,Progressivo,2723,2479,2440,2357
+AL,Intensivo,3053,2732,2675,2561
+AM,Mínimo,5128,4988,4962,4930
+AM,Intermediário bruto,5587,5328,5262,5195
+AM,Residual: docente Info./Comp.,5532,5273,5207,5140
+AM,Residual: algum sinal docente,5316,5057,4991,4924
+AM,Progressivo,5969,5622,5550,5428
+AM,Intensivo,6501,6002,5915,5747
+AP,Mínimo,784,748,743,737
+AP,Intermediário bruto,876,829,813,795
+AP,Residual: docente Info./Comp.,858,811,795,777
+AP,Residual: algum sinal docente,784,737,721,703
+AP,Progressivo,964,894,884,853
+AP,Intensivo,1075,963,946,912
+BA,Mínimo,12329,11991,11960,11909
+BA,Intermediário bruto,13686,12992,12821,12625
+BA,Residual: docente Info./Comp.,12934,12240,12069,11873
+BA,Residual: algum sinal docente,11707,11013,10842,10646
+BA,Progressivo,14460,13527,13321,13040
+BA,Intensivo,16156,14683,14456,13988
+CE,Mínimo,5598,5360,5331,5278
+CE,Intermediário bruto,6342,5853,5719,5605
+CE,Residual: docente Info./Comp.,6091,5602,5468,5354
+CE,Residual: algum sinal docente,5767,5278,5144,5030
+CE,Progressivo,6946,6321,6199,5998
+CE,Intensivo,7826,6953,6809,6523
+DF,Mínimo,1239,1108,1079,1031
+DF,Intermediário bruto,1543,1347,1302,1238
+DF,Residual: docente Info./Comp.,1499,1303,1258,1194
+DF,Residual: algum sinal docente,1276,1080,1035,971
+DF,Progressivo,1851,1577,1519,1443
+DF,Intensivo,2154,1808,1736,1634
+ES,Mínimo,2271,2130,2102,2060
+ES,Intermediário bruto,2645,2403,2341,2269
+ES,Residual: docente Info./Comp.,2473,2231,2169,2097
+ES,Residual: algum sinal docente,2000,1758,1696,1624
+ES,Progressivo,2975,2650,2591,2493
+ES,Intensivo,3354,2962,2866,2735
+GO,Mínimo,3688,3502,3471,3422
+GO,Intermediário bruto,4205,3875,3799,3692
+GO,Residual: docente Info./Comp.,3871,3541,3465,3358
+GO,Residual: algum sinal docente,3592,3262,3186,3079
+GO,Progressivo,4726,4231,4125,3992
+GO,Intensivo,5431,4699,4594,4380
+MA,Mínimo,8823,8702,8683,8638
+MA,Intermediário bruto,9521,9134,9039,8921
+MA,Residual: docente Info./Comp.,8893,8506,8411,8293
+MA,Residual: algum sinal docente,8481,8094,7999,7881
+MA,Progressivo,9909,9460,9349,9188
+MA,Intensivo,10771,10001,9894,9671
+MG,Mínimo,11370,10771,10672,10483
+MG,Intermediário bruto,13213,12031,11756,11424
+MG,Residual: docente Info./Comp.,12664,11482,11207,10875
+MG,Residual: algum sinal docente,12204,11022,10747,10415
+MG,Progressivo,14652,13131,12831,12351
+MG,Intensivo,16769,14587,14290,13657
+MS,Mínimo,1475,1366,1347,1312
+MS,Intermediário bruto,1737,1552,1506,1450
+MS,Residual: docente Info./Comp.,1641,1456,1410,1354
+MS,Residual: algum sinal docente,1490,1305,1259,1203
+MS,Progressivo,2007,1765,1693,1620
+MS,Intensivo,2325,2001,1935,1821
+MT,Mínimo,2264,2120,2085,2044
+MT,Intermediário bruto,2655,2410,2356,2278
+MT,Residual: docente Info./Comp.,2587,2342,2288,2210
+MT,Residual: algum sinal docente,2495,2250,2196,2118
+MT,Progressivo,3027,2675,2592,2485
+MT,Intensivo,3496,3036,2930,2765
+PA,Mínimo,9291,9043,9000,8945
+PA,Intermediário bruto,10186,9688,9578,9395
+PA,Residual: docente Info./Comp.,9787,9289,9179,8996
+PA,Residual: algum sinal docente,9546,9048,8938,8755
+PA,Progressivo,10804,10166,10021,9807
+PA,Intensivo,11983,10885,10701,10430
+PB,Mínimo,3608,3523,3511,3488
+PB,Intermediário bruto,3992,3793,3744,3672
+PB,Residual: docente Info./Comp.,3837,3638,3589,3517
+PB,Residual: algum sinal docente,3689,3490,3441,3369
+PB,Progressivo,4230,3963,3910,3810
+PB,Intensivo,4698,4292,4229,4077
+PE,Mínimo,6579,6337,6295,6234
+PE,Intermediário bruto,7464,6953,6809,6647
+PE,Residual: docente Info./Comp.,7267,6756,6612,6450
+PE,Residual: algum sinal docente,6944,6433,6289,6127
+PE,Progressivo,8090,7407,7260,7061
+PE,Intensivo,9072,8135,7983,7680
+PI,Mínimo,2685,2631,2624,2609
+PI,Intermediário bruto,2945,2808,2773,2723
+PI,Residual: docente Info./Comp.,2656,2519,2484,2434
+PI,Residual: algum sinal docente,2375,2238,2203,2153
+PI,Progressivo,3123,2931,2889,2827
+PI,Intensivo,3532,3171,3112,3014
+PR,Mínimo,6668,6350,6315,6241
+PR,Intermediário bruto,7578,7008,6882,6736
+PR,Residual: docente Info./Comp.,7347,6777,6651,6505
+PR,Residual: algum sinal docente,6595,6025,5899,5753
+PR,Progressivo,8395,7550,7378,7115
+PR,Intensivo,9592,8348,8211,7831
+RJ,Mínimo,8384,7930,7859,7762
+RJ,Intermediário bruto,9734,8922,8725,8462
+RJ,Residual: docente Info./Comp.,8611,7799,7602,7339
+RJ,Residual: algum sinal docente,8276,7464,7267,7004
+RJ,Progressivo,10848,9730,9503,9138
+RJ,Intensivo,12425,10936,10664,10091
+RN,Mínimo,2560,2466,2455,2441
+RN,Intermediário bruto,2871,2691,2642,2587
+RN,Residual: docente Info./Comp.,2747,2567,2518,2463
+RN,Residual: algum sinal docente,2581,2401,2352,2297
+RN,Progressivo,3100,2837,2790,2720
+RN,Intensivo,3481,3124,3060,2946
+RO,Mínimo,999,940,929,915
+RO,Intermediário bruto,1163,1052,1028,1003
+RO,Residual: docente Info./Comp.,1144,1033,1009,984
+RO,Residual: algum sinal docente,993,882,858,833
+RO,Progressivo,1300,1163,1137,1095
+RO,Intensivo,1485,1308,1282,1211
+RR,Mínimo,746,722,713,705
+RR,Intermediário bruto,822,780,762,749
+RR,Residual: docente Info./Comp.,811,769,751,738
+RR,Residual: algum sinal docente,749,707,689,676
+RR,Progressivo,892,826,810,790
+RR,Intensivo,986,899,882,858
+RS,Mínimo,6303,5950,5899,5804
+RS,Intermediário bruto,7545,6852,6528,6277
+RS,Residual: docente Info./Comp.,6675,5982,5658,5407
+RS,Residual: algum sinal docente,6275,5582,5258,5007
+RS,Progressivo,8269,7530,7372,7085
+RS,Intensivo,9450,8278,8072,7739
+SC,Mínimo,3852,3564,3518,3416
+SC,Intermediário bruto,4689,4237,4041,3844
+SC,Residual: docente Info./Comp.,4156,3704,3508,3311
+SC,Residual: algum sinal docente,3448,2996,2800,2603
+SC,Progressivo,5260,4660,4551,4360
+SC,Intensivo,6107,5264,5111,4857
+SE,Mínimo,1636,1585,1578,1570
+SE,Intermediário bruto,1860,1740,1707,1664
+SE,Residual: docente Info./Comp.,1777,1657,1624,1581
+SE,Residual: algum sinal docente,1620,1500,1467,1424
+SE,Progressivo,2030,1863,1829,1773
+SE,Intensivo,2306,2049,2008,1934
+SP,Mínimo,18429,17031,16785,16258
+SP,Intermediário bruto,22488,20013,19215,18435
+SP,Residual: docente Info./Comp.,16498,14023,13225,12445
+SP,Residual: algum sinal docente,16266,13791,12993,12213
+SP,Progressivo,25952,22556,21841,20808
+SP,Intensivo,30431,25946,25193,23731
+TO,Mínimo,1260,1226,1223,1215
+TO,Intermediário bruto,1406,1319,1298,1271
+TO,Residual: docente Info./Comp.,1348,1261,1240,1213
+TO,Residual: algum sinal docente,1321,1234,1213,1186
+TO,Progressivo,1521,1405,1376,1336
+TO,Intensivo,1732,1526,1509,1445

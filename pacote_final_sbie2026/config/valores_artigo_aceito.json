@@ -1,0 +1,78 @@
+{
+  "censo_escolar_2025": {
+    "resumo_nacional": {
+      "escolas": 119244,
+      "matriculas_ef": 25806767,
+      "turmas_ef": 1173351,
+      "turmas_anos_iniciais": 683563,
+      "turmas_anos_finais": 489788,
+      "docentes_ef_vinculos_escola": 1718481,
+      "escolas_turma_computacao": 13608,
+      "escolas_docente_computacao": 13140,
+      "escolas_docente_educacao_tic": 9787,
+      "escolas_ambos_sinais_docentes": 1701,
+      "escolas_algum_sinal_docente": 21226,
+      "escolas_sem_sinal_docente": 98018,
+      "escolas_laboratorio_informatica": 40498,
+      "escolas_internet": 111009,
+      "escolas_internet_aprendizagem": 88734,
+      "escolas_internet_alunos": 60442,
+      "escolas_turma_matematica": 119096,
+      "escolas_turma_lingua_portuguesa": 118931,
+      "escolas_turma_ciencias": 118859,
+      "escolas_turma_artes": 118067,
+      "escolas_turma_lingua_inglesa": 80176
+    },
+    "tabela_02_dependencia": {
+      "Federal": [53, 23684, 969, 339, 630, 2310],
+      "Estadual": [20718, 5865509, 227518, 64768, 162750, 414851],
+      "Municipal": [73790, 15145609, 686509, 450274, 236235, 934483],
+      "Privada": [24683, 4771965, 258355, 168182, 90173, 366837],
+      "Total": [119244, 25806767, 1173351, 683563, 489788, 1718481]
+    },
+    "tabela_04_demanda": {
+      "Mínimo": [131507, 125497, 124531, 122818],
+      "Intermediário bruto": [150686, 139319, 136101, 132549],
+      "Residual: docente Info./Comp.": [137546, 126179, 122961, 119409],
+      "Residual: algum sinal docente": [129460, 118093, 114875, 111323],
+      "Progressivo": [165534, 150349, 147172, 142369],
+      "Intensivo": [187821, 166107, 162566, 155710]
+    },
+    "metricas_textuais": {
+      "adicional_sobre_piso_intermediario": 20075,
+      "escolas_com_demanda_intermediaria_cap25_maior_1": 18020,
+      "hibrido_2aulas_cap25_regentes_anos_iniciais": 683563,
+      "hibrido_2aulas_cap25_especialistas_anos_finais": 87522,
+      "hibrido_2aulas_cap25_total": 771085,
+      "hibrido_3aulas_cap25_especialistas_anos_finais": 101240,
+      "hibrido_3aulas_cap25_total": 784803
+    },
+    "percentuais_artigo_uma_decimal": {
+      "nacional.escolas_internet": 93.1,
+      "nacional.escolas_internet_aprendizagem": 74.4,
+      "nacional.escolas_internet_alunos": 50.7,
+      "nacional.escolas_laboratorio_informatica": 34.0,
+      "municipal.escolas": 61.9,
+      "municipal.escolas_turma_computacao": 8.5,
+      "municipal.escolas_docente_computacao": 8.3,
+      "municipal.escolas_docente_educacao_tic": 8.9,
+      "municipal.escolas_laboratorio_informatica": 23.8,
+      "municipal.escolas_internet_alunos": 40.8,
+      "norte.escolas_algum_sinal_docente": 7.4,
+      "norte.escolas_laboratorio_informatica": 16.2,
+      "norte.escolas_internet_alunos": 27.6,
+      "sul.escolas_algum_sinal_docente": 23.4,
+      "sul.escolas_laboratorio_informatica": 57.5,
+      "sul.escolas_internet_alunos": 77.1
+    }
+  },
+  "censo_superior": {
+    "concluintes_docencia_computacao_2024": 925,
+    "pico_concluintes_docencia_computacao": 1477,
+    "ano_pico": 2015,
+    "anos_equivalentes_2024_uma_decimal": 150.6,
+    "concluintes_pedagogia_amplo_artigo_2024": 105726,
+    "concluintes_pedagogia_nome_estrito_2024": 105502,
+    "concluintes_pedagogia_e_licenciaturas_2024": 206967
+  }
+}

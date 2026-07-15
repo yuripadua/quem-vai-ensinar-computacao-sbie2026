@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "input": "Tabela_Integrada_Censo_2025.csv",
+  "rows": 119244,
+  "unique_school_keys": 119244,
+  "ufs": 27,
+  "regions": 5,
+  "outputs": [
+    "demanda_especialista_por_uf.csv",
+    "demanda_hibrida_por_uf.csv",
+    "metricas_textuais_artigo.json",
+    "resumo_nacional.csv",
+    "resumo_por_dependencia.csv",
+    "resumo_por_localizacao.csv",
+    "resumo_por_regiao.csv",
+    "resumo_por_regiao_dependencia_localizacao.csv",
+    "resumo_por_uf.csv",
+    "tabela_01_cenarios_carga.csv",
+    "tabela_02_escala_dependencia.csv",
+    "tabela_03_sinais_computacao.csv",
+    "tabela_04_demanda_cenarios.csv"
+  ]
+}

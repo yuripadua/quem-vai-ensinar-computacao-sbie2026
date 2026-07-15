@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "archive": "microdados_censo_da_educacao_superior_2024(1).zip",
+  "expected_concluintes": {
+    "docencia_computacao": 925,
+    "pedagogia_amplo_artigo": 105726,
+    "pedagogia_nome_estrito": 105502,
+    "pedagogia_e_licenciaturas": 206967
+  },
+  "observed_concluintes": {
+    "docencia_computacao": 925,
+    "pedagogia_amplo_artigo": 105726,
+    "pedagogia_nome_estrito": 105502,
+    "pedagogia_e_licenciaturas": 206967
+  },
+  "differences": {
+    "docencia_computacao": 0,
+    "pedagogia_amplo_artigo": 0,
+    "pedagogia_nome_estrito": 0,
+    "pedagogia_e_licenciaturas": 0
+  },
+  "note": "O recorte amplo soma 224 concluintes classificados pelo CINE, embora o nome do curso não contenha pedagog*."
+}

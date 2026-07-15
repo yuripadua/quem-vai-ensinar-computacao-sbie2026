@@ -1,0 +1,251 @@
+{
+  "coverage": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "raw_dir": "raw/censo_superior",
+  "selected_archives": {
+    "1995": "raw/censo_superior/microdados_censo_da_educacao_superior_1995.zip",
+    "1996": "raw/censo_superior/microdados_censo_da_educacao_superior_1996.zip",
+    "1997": "raw/censo_superior/microdados_censo_da_educacao_superior_1997.zip",
+    "1998": "raw/censo_superior/microdados_censo_da_educacao_superior_1998.zip",
+    "1999": "raw/censo_superior/microdados_censo_da_educacao_superior_1999.zip",
+    "2000": "raw/censo_superior/microdados_censo_da_educacao_superior_2000.zip",
+    "2001": "raw/censo_superior/microdados_censo_da_educacao_superior_2001.zip",
+    "2002": "raw/censo_superior/microdados_censo_da_educacao_superior_2002.zip",
+    "2003": "raw/censo_superior/microdados_censo_da_educacao_superior_2003.zip",
+    "2004": "raw/censo_superior/microdados_censo_da_educacao_superior_2004.zip",
+    "2005": "raw/censo_superior/microdados_censo_da_educacao_superior_2005.zip",
+    "2006": "raw/censo_superior/microdados_censo_da_educacao_superior_2006.zip",
+    "2007": "raw/censo_superior/microdados_censo_da_educacao_superior_2007.zip",
+    "2008": "raw/censo_superior/microdados_censo_da_educacao_superior_2008.zip",
+    "2009": "raw/censo_superior/microdados_censo_da_educacao_superior_2009.zip",
+    "2010": "raw/censo_superior/microdados_censo_da_educacao_superior_2010.zip",
+    "2011": "raw/censo_superior/microdados_censo_da_educacao_superior_2011.zip",
+    "2012": "raw/censo_superior/microdados_censo_da_educacao_superior_2012.zip",
+    "2013": "raw/censo_superior/microdados_censo_da_educacao_superior_2013.zip",
+    "2014": "raw/censo_superior/microdados_censo_da_educacao_superior_2014.zip",
+    "2015": "raw/censo_superior/microdados_censo_da_educacao_superior_2015(1).zip",
+    "2016": "raw/censo_superior/microdados_censo_da_educacao_superior_2016(1).zip",
+    "2017": "raw/censo_superior/microdados_censo_da_educacao_superior_2017(1).zip",
+    "2018": "raw/censo_superior/microdados_censo_da_educacao_superior_2018(1).zip",
+    "2019": "raw/censo_superior/microdados_censo_da_educacao_superior_2019(1).zip",
+    "2020": "raw/censo_superior/microdados_censo_da_educacao_superior_2020(1).zip",
+    "2021": "raw/censo_superior/microdados_censo_da_educacao_superior_2021(1).zip",
+    "2022": "raw/censo_superior/microdados_censo_da_educacao_superior_2022(1).zip",
+    "2023": "raw/censo_superior/microdados_censo_da_educacao_superior_2023(1).zip",
+    "2024": "raw/censo_superior/microdados_censo_da_educacao_superior_2024(1).zip"
+  },
+  "duplicate_candidates": {
+    "1995": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_1995.zip",
+        "sha256": "865b5af44d141b645e8d1a9bf1bc48e0a326b278b5896464f4a1093dde7f6f49"
+      }
+    ],
+    "1996": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_1996.zip",
+        "sha256": "fa947b8abfaab2319c813133f43d11e891b5d571eb551cc2f21f7c5f62a136f0"
+      }
+    ],
+    "1997": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_1997.zip",
+        "sha256": "6bcf5ba34664cfa72ea3967442f97f3de169de6351af32f936bb0170ab0e48ca"
+      }
+    ],
+    "1998": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_1998.zip",
+        "sha256": "70092e723c3e088f68d4cea849360eed979356cdbf92afa35d93e364808fbda2"
+      }
+    ],
+    "1999": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_1999.zip",
+        "sha256": "6ed66421fd96691f1c5c5357a70e13ca58567cad212d7eb9dc7cdc685d789cc5"
+      }
+    ],
+    "2000": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2000.zip",
+        "sha256": "6f57716fd61dafced69859c64c3396424246d6c4e97c42e4b582d58c971bf478"
+      }
+    ],
+    "2001": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2001.zip",
+        "sha256": "30c67768aa2fc4d04fa5932ee190410b94f28b2db248312b33856446838c51c8"
+      }
+    ],
+    "2002": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2002.zip",
+        "sha256": "c040231e4a486132e1314597256fb208a07bc5d303395316b7928f1e5dfbdff8"
+      }
+    ],
+    "2003": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2003.zip",
+        "sha256": "048df576b6cc9a4a83f69c79105b27cd4aa5cc42799d196195bea92363bd1e83"
+      }
+    ],
+    "2004": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2004.zip",
+        "sha256": "53c2920716ea46cac04f4903e777f02a2dddef1c028f9d37d73ae80546f0a9b5"
+      }
+    ],
+    "2005": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2005.zip",
+        "sha256": "7b7d8d669bfb5ddb15aefcd2109111e5587c4633597b38ce6f118b7a1a759dbe"
+      }
+    ],
+    "2006": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2006.zip",
+        "sha256": "909ba9d684767f834eecd08e1f4b43890f3a6ffee72fd84e6721e66fbd607675"
+      }
+    ],
+    "2007": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2007.zip",
+        "sha256": "43da0a84af3f5881a13bdb9e00dac200460b5e43b7a74bc6890887e6994df578"
+      }
+    ],
+    "2008": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2008.zip",
+        "sha256": "d228adeb7462aa57e5d85dd2bd3ee634f54639cebf6f9aaa2603c03f3cdabf96"
+      }
+    ],
+    "2009": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2009.zip",
+        "sha256": "e8c597a12a780266bee5a780edd091fcf6e2120dd1bfcbf181f77b622bccb660"
+      }
+    ],
+    "2010": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2010.zip",
+        "sha256": "33e1b9d0ce1cc604dcae537dae1329e2a0ed191eb600878ef76d2655136985c4"
+      }
+    ],
+    "2011": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2011.zip",
+        "sha256": "23bfbc1688d4af73347c6bee3f0e5e9ea774c06b33e4bed5a9bd09cf7cd0c18a"
+      }
+    ],
+    "2012": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2012.zip",
+        "sha256": "5616b17dd2bb36435807a6ae479eca48542abba695cdf151d2c99d4fbf3c7d92"
+      }
+    ],
+    "2013": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2013.zip",
+        "sha256": "9fea82d72630d6455295e627ef4118964613672829b16a853967355d9711a47e"
+      }
+    ],
+    "2014": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2014.zip",
+        "sha256": "d1f348af3ef6738eac3d2a901ef5113c15c22aab68dbecd8e9f9c7a425d457e5"
+      }
+    ],
+    "2015": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2015(1).zip",
+        "sha256": "e1559a328c494acaebfe03a03e8f9f7666735354649ddc82be9e86c2ab23f4f4"
+      }
+    ],
+    "2016": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2016(1).zip",
+        "sha256": "4e679c25bd6034653db62281dea9cbf9f3bb8336da55c54dfbc789adc805bf41"
+      }
+    ],
+    "2017": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2017(1).zip",
+        "sha256": "424eba0a9ca7cc6dc91ea4090bc8e4fc6b307c145224349c5a331de258fd36e2"
+      }
+    ],
+    "2018": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2018(1).zip",
+        "sha256": "8095b602240e361420653853a03d07656b30f3d4ea9dace53856aecc994d94b1"
+      }
+    ],
+    "2019": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2019(1).zip",
+        "sha256": "97a4169d006474f3337fd42ee6479f10033dd286deda4e91c3576fd3d4130aee"
+      }
+    ],
+    "2020": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2020(1).zip",
+        "sha256": "3d0d9fd2549b0d78785f71cdd10a0dfa25ee54d29f7b7b8c2caf923d6f6c8449"
+      }
+    ],
+    "2021": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2021(1).zip",
+        "sha256": "75e9c5dfd9ab205cd59f113098e5e225dabd915819afa509be7cc20b763ce06c"
+      }
+    ],
+    "2022": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2022(1).zip",
+        "sha256": "f30830c26956a3575c3786634e51c9a643faa3907f5f895c8c326386ff1df6e8"
+      }
+    ],
+    "2023": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2023(1).zip",
+        "sha256": "a7a3b905777a7ddbaf287c242bf6ed55c056f17350d042a4199fb1e10cf3b2c5"
+      }
+    ],
+    "2024": [
+      {
+        "path": "raw/censo_superior/microdados_censo_da_educacao_superior_2024(1).zip",
+        "sha256": "1934a940937d2a2d0ca0d9e3d8f96ab9ad7b0c3d2f8b23c0cb9070a1045e1154"
+      }
+    ]
+  },
+  "synthetic_or_imputed_values": false,
+  "ppc_emec_used": false
+}

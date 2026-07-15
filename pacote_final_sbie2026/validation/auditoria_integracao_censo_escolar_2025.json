@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "raw_dir": "raw/microdados_censo_escolar_2025/dados",
+  "schema": "config/colunas_base_integrada_2025.txt",
+  "output": "build/Tabela_Integrada_Censo_2025.csv",
+  "sources": {
+    "escola": {
+      "arquivo": "Tabela_Escola_2025.csv",
+      "linhas": 214192,
+      "chaves_unicas": 214192,
+      "md5": "0e4c68d54b18657b0fb4e4fd8f8936d9",
+      "md5_esperado": "0e4c68d54b18657b0fb4e4fd8f8936d9",
+      "md5_confere": true
+    },
+    "docente": {
+      "arquivo": "Tabela_Docente_2025.csv",
+      "linhas": 178772,
+      "chaves_unicas": 178772,
+      "md5": "e745bd8a3ae39edf97e28c6030024d16",
+      "md5_esperado": "e745bd8a3ae39edf97e28c6030024d16",
+      "md5_confere": true
+    },
+    "turma": {
+      "arquivo": "Tabela_Turma_2025.csv",
+      "linhas": 178772,
+      "chaves_unicas": 178772,
+      "md5": "88d8e42cff804aef9761ed21d032de1e",
+      "md5_esperado": "88d8e42cff804aef9761ed21d032de1e",
+      "md5_confere": true
+    },
+    "matricula": {
+      "arquivo": "Tabela_Matricula_2025.csv",
+      "linhas": 178766,
+      "chaves_unicas": 178766,
+      "md5": "16ce341a6ab57c8cd07f28064063ca0c",
+      "md5_esperado": "16ce341a6ab57c8cd07f28064063ca0c",
+      "md5_confere": true
+    }
+  },
+  "join": {
+    "relation": "1:1",
+    "filter": "QT_TUR_FUND_AI > 0 OR QT_TUR_FUND_AF > 0",
+    "selected_keys": 119244,
+    "unmatched_keys": {
+      "escola": 0,
+      "docente": 0,
+      "matricula": 0
+    },
+    "rows_written": 119244,
+    "columns_written": 226
+  },
+  "output_sha256": "a8efffc8b72ea0644a0c9db3c069b80ef72829c862f4ab179b4bdcf8a86dd3e1",
+  "expected_sha256": "a8efffc8b72ea0644a0c9db3c069b80ef72829c862f4ab179b4bdcf8a86dd3e1",
+  "matches_expected_sha256": true,
+  "reference_comparison": {
+    "identical": true,
+    "detail": "gerado=a8efffc8b72ea0644a0c9db3c069b80ef72829c862f4ab179b4bdcf8a86dd3e1; referencia=a8efffc8b72ea0644a0c9db3c069b80ef72829c862f4ab179b4bdcf8a86dd3e1"
+  }
+}
