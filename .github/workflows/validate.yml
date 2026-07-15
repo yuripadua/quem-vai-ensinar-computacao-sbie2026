@@ -1,0 +1,32 @@
+name: Validar artefato
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Conferir hashes
+        run: sha256sum -c SHA256SUMS.txt
+
+      - name: Validar resultados do artigo
+        run: python3 scripts/03_validar_resultados_artigo.py
+
+      - name: Executar testes
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: python3 -m unittest discover -s tests -v

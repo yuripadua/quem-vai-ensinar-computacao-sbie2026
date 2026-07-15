@@ -1,3 +1,4 @@
+40d09d6b840b0b52d06b5253e01063461a66d5455f3aa580ba91ec2d7ddd2806  ./.github/workflows/validate.yml
 ec001278c7aab46515a9bfa50b85f2d2e67ef5210e965d918773f4d6fe98cae9  ./.gitignore
 9671c83048f9a8aabcbe78806de7feb3faecc45004c25cf03d64fa1231d13236  ./CITATION.cff
 32f2ee9f69c17807bd1a2e563a19aeb122baf72485dc4804e6106df64c2af3cc  ./LICENSE
@@ -32,7 +33,6 @@ b556d23fc6ed2ee3800a6cbd338d8dce86428f8e53b763d9d25128f8cc7b4af3  ./docs/LIMITAC
 35d9b257201315cee63372152f713efd06856dcadcd1a44b4e8bca80f140eb92  ./docs/METODOLOGIA.md
 5b02014f5ee3cf82e55bc8348bef8b4b62332d40939bacaf1ac2df73dce45b37  ./docs/PROVENIENCIA_E_DOWNLOAD.md
 e15218db4ebeef2d2236af2676f33492e0e10fa81a4cd9be806bdeb9d9050bd1  ./docs/VALIDACAO.md
-ce623161722628d0370ff7dd67a08a4b15f67c43707e5b989b748bf7ba6ced69  ./docs/historico_especificacao_inicial.md
 c6bae77cf49a45eba2f0abe5f244a3ae31d7720411016bdd6de17fe0b4817dcc  ./planilha/Artefato_Dados_SBIE2026.xlsx
 3978c530495642571079ad046467a79f949f432f9d6ea3960bdfd5c90cb0d0cc  ./requirements.txt
 e053afc20d5e0cdbdc8bee0988fd99cd9e3d32f383a76a2f8a323b7391e1e8bc  ./scripts/01_integrar_censo_escolar_2025.py
