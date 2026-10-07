@@ -1,6 +1,6 @@
 # Quem Vai Ensinar Computação?
 
-> 📄 **Artigo Publicado:** Acesse o texto completo na SBC OpenLib (SOL) em **[https://sol.sbc.org.br/index.php/sbie/article/view/45606/45367](https://sol.sbc.org.br/index.php/sbie/article/view/45606/45367)**  
+> 📄 **Artigo Publicado:** Acesse o texto completo na SBC OpenLib (SOL) em **[https://sol.sbc.org.br/index.php/sbie/article/view/45606](https://sol.sbc.org.br/index.php/sbie/article/view/45606)**  
 > 🔗 **DOI:** [10.5753/sbie.2026.26628](https://doi.org/10.5753/sbie.2026.26628)
 
 Artefatos suplementares do artigo **“Quem Vai Ensinar Computação? Dimensionando a Demanda Docente para a BNCC Computação no Brasil”**, de Yuri Souza Padua e Rodolfo Azevedo, publicado no SBIE 2026.
