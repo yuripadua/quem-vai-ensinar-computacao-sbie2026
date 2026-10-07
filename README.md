@@ -1,6 +1,9 @@
 # Quem Vai Ensinar Computação?
 
-Artefatos suplementares do artigo **“Quem Vai Ensinar Computação? Dimensionando a Demanda Docente para a BNCC Computação no Brasil”**, de Yuri Souza Padua e Rodolfo Azevedo, aceito no SBIE 2026.
+> 📄 **Artigo Publicado:** Acesse o texto completo na SBC OpenLib (SOL) em **[https://sol.sbc.org.br/index.php/sbie/article/view/45606/45367](https://sol.sbc.org.br/index.php/sbie/article/view/45606/45367)**  
+> 🔗 **DOI:** [10.5753/sbie.2026.26628](https://doi.org/10.5753/sbie.2026.26628)
+
+Artefatos suplementares do artigo **“Quem Vai Ensinar Computação? Dimensionando a Demanda Docente para a BNCC Computação no Brasil”**, de Yuri Souza Padua e Rodolfo Azevedo, publicado no SBIE 2026.
 
 Este pacote contém scripts, bases derivadas, dicionário de variáveis, planilha consolidada e validações. Usa exclusivamente microdados públicos do INEP. **PPCs, e-MEC, buscas na web, PDFs curriculares e o projeto paralelo de coleta de PPCs não fazem parte deste repositório.**
 
@@ -49,8 +52,8 @@ O resultado esperado é `PASS: 120/120 verificações`.
 
 ```bash
 python3 scripts/run_pipeline.py \
-  --raw-escolar-dir raw/microdados_censo_escolar_2025/dados \
-  --raw-superior-dir raw/censo_superior
+  --raw-escolar-dir raw/microdados_censo_escolar_2025/dados \
+  --raw-superior-dir raw/censo_superior
 ```
 
 Para reproduzir somente o Censo Escolar, omita `--raw-superior-dir`; a série superior auditada distribuída no pacote será preservada. Consulte `docs/METODOLOGIA.md`.
